@@ -1,6 +1,0 @@
-yfinance
-ta
-feedparser
-python-telegram-bot
-nest_asyncio
-flask
